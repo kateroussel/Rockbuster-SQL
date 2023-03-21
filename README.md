@@ -9,3 +9,5 @@ The objective of this project is to answer key business questions using SQL to q
 ## Data Set
 
 The data for this project is contained in a relational database made up of 17 tables, containing information about Rockbuster's film inventory, customers, payments, etc.
+
+Full Project Brief: https://images.careerfoundry.com/public/courses/data-immersion/A3/A3_Data_Project_Brief%20.pdf
